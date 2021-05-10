@@ -1,7 +1,6 @@
 # covid-90data
 COVID-19 patients data and the R script for the analysis (Chen X. et al, Research on Influencing Factors and Classification of patients with mild and severe COVID-19 Symptoms)
 
-
 ## 90original.csv
 complete data from the original 90 patients after interpolation
 ## smotedata.csv
