@@ -19,3 +19,5 @@ R script used for descriptive analysis and Class-Balanced data generation.
 R script used for descriptive analysis of Class-Balanced data.
 ## 231model_finally.R
 R script used for Lasso logistic regression analysis and random forest analysis.
+## figure
+Plotting of analysis results
